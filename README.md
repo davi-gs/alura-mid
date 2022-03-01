@@ -1,4 +1,4 @@
-# Projeto Apeperia!
+# Projeto AluraMid!
 
 Projeto relacionado ao curso de [Javascript para Web](https://cursos.alura.com.br/course/javascript-web-paginas-dinamicas) da plataforma de cursos [Alura](https://www.alura.com.br/).
 
